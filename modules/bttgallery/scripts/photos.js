@@ -1,7 +1,7 @@
 jQuery(function ($) {
 	/* Configuration options */
 	var fullscreenBaseUrl = $(".slideshow-fullscreen").attr("href");
-	var flickrUserId = "47034115@N04";
+	var flickrUserId = "55640368@N04";
 	var flickrTags = "gallery";
 	var flickrFeedBaseUrl = "http://api.flickr.com/services/feeds/photos_public.gne";
 

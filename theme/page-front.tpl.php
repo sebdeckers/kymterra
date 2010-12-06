@@ -34,7 +34,7 @@ print $scripts;
 				<div class="slideshow-big">
 					<!-- Fallback for disabled javascript -->
 					<noscript>
-						<img src="http://farm5.static.flickr.com/4003/4419893170_de1f79eb6c.jpg" />
+						<img src="http://farm6.static.flickr.com/5246/5222963943_100be0fce5.jpg" />
 					</noscript>
 				</div>
 				<div class="slideshow-controls">
