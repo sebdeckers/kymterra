@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<title>Wedding Planner in Vietnam - Vietnamese Weddings - By Thuong Tran</title>
+<title>Wedding Planner in Vietnam - Vietnamese Weddings - Kymterra</title>
 <link href='http://fonts.googleapis.com/css?family=Josefin+Sans+Std+Light&subset=latin' rel='stylesheet' type='text/css' />
 <style>
 html {
@@ -63,10 +63,10 @@ body {
 <body>
 	<div id="overlay">
 		<div id="notice">
-			<p>Welcome to <a href="http://www.bythuongtran.com/" class="logo"><span class="btt">By</span>thuongtran</a>, the certified wedding specialist in Vietnam and Singapore.</p>
+			<p>Welcome to <a href="http://www.kymterra.com/" class="logo"><span class="btt">Kym</span>terra</a>, the certified wedding specialist in Singapore.</p>
 			<p>Our website is currently under maintenance.</p>
-			<p>Please check back later or visit the <a href="http://blog.bythuongtran.com/">blog</a> instead.</p>
-			<p>- <a href="mailto:thuong.tran@bythuongtran.com">Thuong Tran</a></p>
+			<p>Please check back later or visit the <a href="http://blog.kymterra.com/">blog</a> instead.</p>
+			<p>- <a href="mailto:info@kymterra.com">Thuong Tran</a></p>
 			<?php
 				$str = $help . $messages . $content;
 				if ($str): print "<hr />" . $str; endif;

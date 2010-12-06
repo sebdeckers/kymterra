@@ -1,6 +1,6 @@
 ; $Id: $
-name = By Thuong Tran
-description = Theme for By Thuong Tran (bythuongtran.com)
+name = Kymterra
+description = Theme for Kymterra (kymterra.com)
 version = 0.1.0
 core = 6.x
 engine = phptemplate
